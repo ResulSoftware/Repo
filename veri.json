@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "title": "Demon Slayer",
+        "description": "Kömür satarak geçimini sağlayan iyi kalpli Tanjiro Kamado'nun hayatı, ailesinin bir iblis tarafından katledilmesiyle sonsuza dek değişir. Katliamdan sağ kurtulan tek kişi olan kız kardeşi Nezuko ise kendisi bir iblise dönüşmüştür. Tanjiro, kardeşini tekrar insana dönüştürmek ve ailesinin intikamını almak için İblis Avcısı Birliği'ne katılır. Efsanevi nefes teknikleri, nefes kesici animasyon kalitesi ve duygusal derinliğiyle modern bir başyapıt.",
+        "image": "img/demonslayer.webp",
+        "rating": "8.7",
+        "genres": [
+            "Aksiyon",
+            "Fantastik",
+            "Macera"
+        ],
+        "cover": "img/demonarka.jpg",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "Zulüm",
+                "video_url": "vıdeo/demonslayer/1.bolum.mp4",
+                "duration": "24 dk"
+            }
+        ],
+        "isTrending": true
+    },
+    {
+        "id": 2,
+        "title": "Attack on Titan",
+        "description": "Yüzyıllar önce insanlık, devasa insansı yaratıklar olan Titanlar tarafından neredeyse yok edilmiştir. Hayatta kalan son insanlar, Titanların ulaşamayacağı kadar yüksek surların ardına sığınmıştır. Ancak 100 yıllık huzur, surları aşan devasa bir Titan'ın ortaya çıkmasıyla son bulur. Eren Yeager, annesinin bir Titan tarafından yenilişine tanık olduktan sonra tüm Titanları yeryüzünden silmeye yemin eder. Siyasi entrikalar, felsefi sorular ve şok edici gerçeklerle dolu epik bir hayatta kalma mücadelesi.",
+        "image": "img/aot.webp",
+        "rating": "9.1",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Karanlık Fantezi"
+        ],
+        "cover": "img/aotarka.jpg",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "2000 Yıl Sonrasındaki Sana",
+                "video_url": "vıdeo/aot/1.bolum.mp4",
+                "duration": "24 dk"
+            }
+        ],
+        "isTrending": true
+    },
+    {
+        "id": 3,
+        "title": "Jujutsu Kaisen",
+        "description": "Sıradan bir lise öğrencisi olan Yuji Itadori, okulunun kulüp odasında bulunan lanetli bir nesneyi arkadaşlarıyla birlikte açar. Ortaya çıkan lanetlerle savaşırken, en güçlü lanetlerden biri olan 'Lanetlerin Kralı' Ryomen Sukuna'nın parmağını yutarak onunla aynı bedeni paylaşmaya başlar. Jujutsu büyücülerinin dünyasına adım atan Yuji, Sukuna'nın tüm parmaklarını bulup yok etmek için kendi hayatını riske atar. Karanlık fantezi, yoğun aksiyon ve unutulmaz karakterlerin birleşimi.",
+        "image": "img/jujutsukaisen.jpg",
+        "rating": "8.5",
+        "genres": [
+            "Aksiyon",
+            "Doğaüstü",
+            "Shounen"
+        ],
+        "cover": "img/jujuarka.webp",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "Ryomen Sukuna",
+                "video_url": "vıdeo/jujutsukaisen/1.bolum.mp4",
+                "duration": "24 dk"
+            }
+        ],
+        "isTrending": false
+    },
+    {
+        "id": 4,
+        "title": "Death Note",
+        "description": "Derslerinde son derece başarılı olan lise öğrencisi Light Yagami, sıkıcı bulduğu dünyayı değiştirmek için bir fırsat kollar. Bir gün, tesadüfen yere düşen gizemli bir defter bulur: Death Note. Defterin kuralı basittir; ismi yazılan kişi ölür. Light, bu gücü kullanarak dünyadaki suçluları temizleyip kendi ideal dünyasını kurmaya başlar. Ancak, dünyanın en iyi dedektifi olarak bilinen 'L' onun peşine düştüğünde, aralarında nefes kesen bir zeka savaşı başlar. Adalet, ahlak ve hırs üzerine kurulu bir psikolojik gerilim.",
+        "image": "img/deathnote.webp",
+        "rating": "8.9",
+        "genres": [
+            "Gizem",
+            "Doğaüstü",
+            "Gerilim"
+        ],
+        "cover": "img/deathnote-arkaplan.webp",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "Yeniden Doğuş",
+                "video_url": "vıdeo/deathnote/1.bolum.mp4",
+                "duration": "22 dk"
+            }
+        ],
+        "isTrending": false
+    },
+    {
+        "id": 5,
+        "title": "Naruto Shippuden",
+        "description": "Naruto Uzumaki'nin efsanevi yolculuğu devam ediyor. Jiraiya ile yaptığı iki buçuk yıllık eğitimin ardından Gizli Yaprak Köyü'ne geri dönen Naruto, hem daha güçlü hem de daha kararlıdır. Bir yandan en yakın arkadaşı Sasuke'yi karanlıktan kurtarmaya çalışırken, diğer yandan dünyayı tehdit eden Akatsuki örgütüyle yüzleşir. İçindeki Dokuz Kuyruklu Tilki'nin gücüne hakim olmaya çalışan genç bir ninjanın, Hokage olma hayali ve barış getirme çabası.",
+        "image": "img/naruto.jpg",
+        "rating": "8.6",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Dövüş Sanatları"
+        ],
+        "cover": "img/narutoarka.jpg",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "Eve Dönüş",
+                "video_url": "vıdeo/naruto/1.bolum.mp4",
+                "duration": "23 dk"
+            }
+        ],
+        "isTrending": true
+    },
+    {
+        "id": 6,
+        "title": "One Punch Man",
+        "description": "Saitama, sadece hobi olarak kahramanlık yapan biridir. Üç yıl süren yoğun antrenmanlar sonucunda o kadar güçlenmiştir ki, en devasa ve güçlü düşmanlarını bile tek bir yumrukla alt edebilmektedir. Ancak bu muazzam güç, beraberinde derin bir can sıkıntısı ve heyecan eksikliği getirmiştir. Bir yandan dünyayı kurtarırken, diğer yandan market indirimlerini kaçırmamaya çalışan Saitama'nın absürt, komik ve görsel olarak büyüleyici maceraları.",
+        "image": "img/onepunchman.jpg",
+        "rating": "8.8",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Süper Güç"
+        ],
+        "cover": "img/onepunchmanarka.jpg",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "En Güçlü Adam",
+                "video_url": "vıdeo/onepunchman/1.bolum.mp4",
+                "duration": "24 dk"
+            }
+        ],
+        "isTrending": true
+    },
+    {
+        "id": 7,
+        "title": "Tokyo Ghoul",
+        "description": "Tokyo, insanların arasına gizlenmiş ve insan etiyle beslenen Ghoullar (Gulyabaniler) tarafından kuşatılmıştır. Ken Kaneki, sevdiği kızın aslında bir Ghoul olduğunu öğrendiğinde ölümle burun buruna gelir. Geçirdiği operasyon sonucunda yarı-insan yarı-ghoul bir varlığa dönüşen Kaneki, her iki dünyada da kendine yer bulmaya çalışırken insanlığını koruma mücadelesi verir. Kimlik çatışması, trajedi ve karanlık bir atmosfer.",
+        "image": "img/tokyoghoul.jpg",
+        "rating": "7.8",
+        "genres": [
+            "Karanlık Fantezi",
+            "Gerilim",
+            "Korku"
+        ],
+        "cover": "img/tokyoarka.jpg",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "Trajedi",
+                "video_url": "vıdeo/tokyoghoul/1.bolum.mp4",
+                "duration": "24 dk"
+            }
+        ],
+        "isTrending": false
+    },
+    {
+        "id": 8,
+        "title": "Captain Tsubasa",
+        "description": "Küçük yaşlardan beri 'topla arkadaş' olan Tsubasa Ozora, futbol dünyasının zirvesine tırmanmak isteyen dahi bir futbolcudur. Yeni taşındığı şehirde rakibi ve dostu olacak yetenekli oyuncularla tanışır. Roberto Hongo'nun rehberliğinde yeteneklerini geliştiren Tsubasa, imkansız şutlar, bitmek bilmeyen saha koşuları ve sarsılmaz bir sporcu ruhuyla tüm dünyayı büyüleyecek bir kariyere adım atar. Futbol tutkusunu iliklerinize kadar hissedeceğiniz bir klasik.",
+        "image": "img/tsubasa.jpg",
+        "rating": "8.0",
+        "genres": [
+            "Spor",
+            "Shounen",
+            "Dram"
+        ],
+        "cover": "img/tsubasarka.jfif",
+        "episodes": [
+            {
+                "ep_num": 1,
+                "ep_title": "Gökyüzüne Doğru",
+                "video_url": "vıdeo/tsubasa/1.bolum.mp4",
+                "duration": "24 dk"
+            }
+        ],
+        "isTrending": false
+    }
+]
